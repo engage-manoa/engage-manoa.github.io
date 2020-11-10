@@ -1,5 +1,10 @@
-
 # Engage-manoa
+
+## Table of contents
+- [Overview](#overview)
+- [Goals](#goals)
+
+
 ## Overview
 
 Engage-manoa will be a centralized directory open to UH Manoa students looking for organizations/clubs. it will use
