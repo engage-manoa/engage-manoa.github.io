@@ -25,4 +25,15 @@ Engage Manoa will be designed to offer an easily accessible online space for stu
 ### [Sreelakshmi](https://smkutty.github.io/)
 
 ## Page Mockups
-[Image]('Photos/landing-page-not-logged-in.jpg')
+
+<img src="Photos/landing-page-not-logged-in.jpg"/>
+
+Landing page while user is not logged in
+
+<img src="Photos/landing-page-logged-in.jpg"/>
+
+Landing page while user is logged in
+
+<img src="list-clubs-page.png"/>
+
+List clubs page
