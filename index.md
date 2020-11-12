@@ -23,3 +23,6 @@ Engage Manoa will be designed to offer an easily accessible online space for stu
 ### [Mikel](https://mikel-ishihara.github.io/)
 ### [Christian](https://www.notion.so/Christian-Pak-Portfolio-2020-554fded38ce9497198e62aaeca8b3b52)
 ### [Sreelakshmi](https://smkutty.github.io/)
+
+## Page Mockups
+[Image]('Photos/landing-page-not-logged-in.jpg')
