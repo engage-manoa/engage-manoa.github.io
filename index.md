@@ -34,6 +34,6 @@ Landing page while user is not logged in
 
 Landing page while user is logged in
 
-<img src="list-clubs-page.png"/>
+<img src="Photos/list-clubs-page.png"/>
 
 List clubs page
