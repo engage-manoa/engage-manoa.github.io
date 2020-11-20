@@ -29,6 +29,8 @@ The landing page gives an overview of the site. Eventually it will be updated to
 ### [Sign-up Page](http://134.209.77.173/#/signup)
 <img src="Photos/registerM1.png"/>
 
+### You must be logged in to view the following pages
+
 ### [Admin Page](http://134.209.77.173/#/admin)
 If you're signed in with an admin account you have access to the Admin Page. The Admin page displays all the clubs in the system and gives you edit access to all of them.
 <img src="Photos/adminM1.png"/>
