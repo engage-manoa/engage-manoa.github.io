@@ -2,6 +2,7 @@ aesthetics# Engage-manoa
 ## Table of contents
 - [Overview](#overview)
 - [Site](#site-overview)
+- [Developer Guide](#developer-guide)
 - [Development](#development)
 - [Team Members](#team-members)
 
@@ -47,6 +48,33 @@ The list clubs page displays all the clubs in the system. In the next iteration 
 A button to take you to the Edit Club Info page appears at the bottom of the card if you are listed as the manager of a club or are on the Admin Page. From this page you are able to edit the clubs saved info.
 <img src="Photos/editClubM1.png"/>
 
+## Developer Guide
+### Installation
+First, click the "Clone or download" button to download the GitHup rep to your local file system.
+
+Second, [install Meteor](https://www.meteor.com/install).
+
+Next, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+### Viewing the app
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/engage-manoa/engage-manoa/blob/main/app/package.json):
+
+```
+$ meteor npm run start
+```
+The first time you run the app, it will create some default data. Once everything is running, your command prompt should display:
+
+```
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+```
+The running application will appear in your web browser at [http://localhost:3000](http://localhost:3000). You can either login using the credentials in [settings.development.json](https://github.com/engage-manoa/engage-manoa/blob/main/config/settings.development.json) under "defaultAccounts", or you can sign up and create your own account in the app.
 
 ## Development
 ### [Milestone 1](https://github.com/engage-manoa/engage-manoa/projects/1)
