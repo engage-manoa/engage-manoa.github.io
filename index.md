@@ -1,4 +1,7 @@
 aesthetics# Engage-manoa
+
+![CI-Engage-Manoa](https://github.com/engage-manoa/engage-manoa/workflows/CI-Engage-Manoa/badge.svg)
+
 ## Table of contents
 - [Overview](#overview)
 - [Site](#site-overview)
