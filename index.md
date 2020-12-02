@@ -5,6 +5,7 @@
 - [Deployment](#Deployment)
 - [User Guide](#user-guide)
 - [Development](#development)
+- [Developer Guide](#developer-guide)
 - [Team Members](#team-members)
 
 ## Overview
@@ -62,6 +63,34 @@ Milestone 2 will focus on expanding the features of the site.
 
 ### [Milestone 3](https://github.com/engage-manoa/engage-manoa/projects/3)
 Milestone 3 will focus on refining the features of the site, as well as updating the UI.
+
+## Developer Guide
+### Installation
+First, click the "Clone or download" button to download the GitHup rep to your local file system.
+
+Second, [install Meteor](https://www.meteor.com/install).
+
+Next, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+### Viewing the app
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/engage-manoa/engage-manoa/blob/main/app/package.json):
+
+```
+$ meteor npm run start
+```
+The first time you run the app, it will create some default data. Once everything is running, your command prompt should display:
+
+```
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+```
+The running application will appear in your web browser at [http://localhost:3000](http://localhost:3000). You can either login using the credentials in [settings.development.json](https://github.com/engage-manoa/engage-manoa/blob/main/config/settings.development.json) under "defaultAccounts", or you can sign up and create your own account in the app.
 
 ## Team Members
 ### [Jun Ho](https://junhocs.github.io)
