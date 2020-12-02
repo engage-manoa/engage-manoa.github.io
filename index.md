@@ -61,7 +61,7 @@ We decided to put off working on aesthetics until we have completed the main cor
 Milestone 2 will focus on expanding the features of the site.
 
 ### [Milestone 3](https://github.com/engage-manoa/engage-manoa/projects/3)
-Milestone 2 will focus on refining the features of the site, as well as updating the UI.
+Milestone 3 will focus on refining the features of the site, as well as updating the UI.
 
 ## Team Members
 ### [Jun Ho](https://junhocs.github.io)
