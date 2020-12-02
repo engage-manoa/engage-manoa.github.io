@@ -1,27 +1,26 @@
-aesthetics# Engage-manoa
-
 ![CI-Engage-Manoa](https://github.com/engage-manoa/engage-manoa/workflows/CI-Engage-Manoa/badge.svg)
 
 ## Table of contents
 - [Overview](#overview)
-- [Site](#site-overview)
-- [Developer Guide](#developer-guide)
+- [Deployment](#Deployment)
+- [User Guide](#user-guide)
 - [Development](#development)
 - [Team Members](#team-members)
 
 ## Overview
-The Engage Manoa website is a centralized directory open to UH Manoa students looking for organizations/clubs. Engage Manoa will be designed to offer an easily accessible online space for students to find up-to-date information regarding all campus organizations and clubs. Users can create a profile and have access to a full directory to find a club or organization based on their interests.
+The Engage Manoa website is a centralized directory open to UH Manoa students looking for organizations/clubs. UH Manoa is home to many clubs and student organizations, but there isn't currently a way to browse the different clubs digitally. The only option is the google spreadsheet which lists all of UH Manoa's registered independent organizations. Engage Manoa will be designed to offer an easily accessible online space for students to find up-to-date information regarding all campus organizations and clubs. Users can create a profile and have access to a full directory to find a club or organization based on their interests.
 
 The website uses
 - Meteor - for server and client code
 - React - for UI implementation
 - Semantic UI - CSS Framework
--Digital Ocean - for hosting and deployment
+- Digital Ocean - for hosting and deployment
 
-### [Engage Manoa site](http://134.209.77.173/#/)
-### [Engage-Manoa repo](https://github.com/engage-manoa/engage-manoa)
+## Deployment
+##### A live deployment of the Engage Manoa site is available at: [Engage Manoa](http://134.209.77.173/#/)
+##### Link to Engage manoa Repo: [Engage-Manoa repo](https://github.com/engage-manoa/engage-manoa)
 
-## Site Overview
+## User Guide
 
 ### [Landing Page](http://134.209.77.173/#/)
 The landing page gives an overview of the site. Eventually it will be updated to show example clubs and uses.
@@ -51,33 +50,7 @@ The list clubs page displays all the clubs in the system. In the next iteration 
 A button to take you to the Edit Club Info page appears at the bottom of the card if you are listed as the manager of a club or are on the Admin Page. From this page you are able to edit the clubs saved info.
 <img src="Photos/editClubM1.png"/>
 
-## Developer Guide
-### Installation
-First, click the "Clone or download" button to download the GitHup rep to your local file system.
 
-Second, [install Meteor](https://www.meteor.com/install).
-
-Next, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
-
-```
-$ meteor npm install
-```
-### Viewing the app
-
-Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/engage-manoa/engage-manoa/blob/main/app/package.json):
-
-```
-$ meteor npm run start
-```
-The first time you run the app, it will create some default data. Once everything is running, your command prompt should display:
-
-```
-=> Started your app.
-
-=> App running at: http://localhost:3000/
-   Type Control-C twice to stop.
-```
-The running application will appear in your web browser at [http://localhost:3000](http://localhost:3000). You can either login using the credentials in [settings.development.json](https://github.com/engage-manoa/engage-manoa/blob/main/config/settings.development.json) under "defaultAccounts", or you can sign up and create your own account in the app.
 
 ## Development
 ### [Milestone 1](https://github.com/engage-manoa/engage-manoa/projects/1)
@@ -87,8 +60,8 @@ We decided to put off working on aesthetics until we have completed the main cor
 ### [Milestone 2](https://github.com/engage-manoa/engage-manoa/projects/2)
 Milestone 2 will focus on expanding the features of the site.
 
-### Milestone 3
-For milestone 3 will focus on the aesthetics of the site as well as any additional extra features for the users.
+### [Milestone 3](https://github.com/engage-manoa/engage-manoa/projects/3)
+Milestone 2 will focus on refining the features of the site, as well as updating the UI.
 
 ## Team Members
 ### [Jun Ho](https://junhocs.github.io)
