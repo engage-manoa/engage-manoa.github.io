@@ -22,29 +22,29 @@ The website uses
 
 ## User Guide
 
-### [Landing Page](http://134.209.77.173/#/)
+### [Landing Page](http://engage-manoa.xyz/#/)
 The landing page gives an overview of the site. Eventually it will be updated to show example clubs and uses.
 <img src="Photos/landingM1.png"/>
 
-### [Login Page](http://134.209.77.173/#/signin/)
+### [Login Page](http://engage-manoa.xyz/#/signin/)
 <img src="Photos/signInM1.png"/>
 
-### [Sign-up Page](http://134.209.77.173/#/signup)
+### [Sign-up Page](http://engage-manoa.xyz/#/signup)
 <img src="Photos/registerM1.png"/>
 
 ### You must be logged in to view the following pages
 
-### [Admin Page](http://134.209.77.173/#/admin)
+### [Admin Page](http://engage-manoa.xyz3/#/admin)
 If you're signed in with an admin account you have access to the Admin Page. The Admin page displays all the clubs in the system and gives you edit access to all of them.
 <img src="Photos/adminM1.png"/>
 
-### [Add Club Page](http://134.209.77.173/#/addclub)
+### [Add Club Page](http://engage-manoa.xyz/#/addclub)
 If you're signed in with an admin account you have access to the Add Club Page. This page allows you to add clubs to the system. Currently this is the only way for clubs to be added.
 <img src="Photos/addClubM1.png"/>
 
-### [List Clubs Page](http://134.209.77.173/#/listclubs)
-The list clubs page displays all the clubs in the system. In the next iteration a search system will be implemented to allow users to easily find clubs they are interested in.
-<img src="Photos/listClupsM1.png"/>
+### [List Clubs Page](http://engage-manoa.xyz/#/listclubs)
+The list clubs page displays all the clubs in the system. You can check the club categories on the right to filter which clubs are listed.
+<img src="Photos/searchM2.png"/>
 
 ### Edit Club Info
 A button to take you to the Edit Club Info page appears at the bottom of the card if you are listed as the manager of a club or are on the Admin Page. From this page you are able to edit the clubs saved info.
