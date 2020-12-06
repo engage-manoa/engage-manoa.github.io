@@ -18,7 +18,7 @@ The website uses
 - Digital Ocean - for hosting and deployment
 
 ## Deployment
-##### A live deployment of the Engage Manoa site is available at: [Engage Manoa](http://134.209.77.173/#/)
+##### A live deployment of the Engage Manoa site is available at: [Engage Manoa](http://engage-manoa.xyz/#/)
 ##### Link to Engage manoa Repo: [Engage-Manoa repo](https://github.com/engage-manoa/engage-manoa)
 
 ## User Guide
@@ -59,7 +59,7 @@ The focus of the first milestone was to establish the main structure of the site
 We decided to put off working on aesthetics until we have completed the main core functionality of the site.
 
 ### [Milestone 2](https://github.com/engage-manoa/engage-manoa/projects/2)
-Milestone 2 will focus on expanding the features of the site.
+Milestone 2 focused on expanding the features of the site.
 
 ### [Milestone 3](https://github.com/engage-manoa/engage-manoa/projects/3)
 Milestone 3 will focus on refining the features of the site, as well as updating the UI.
