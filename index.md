@@ -92,6 +92,10 @@ The first time you run the app, it will create some default data. Once everythin
 ```
 The running application will appear in your web browser at [http://localhost:3000](http://localhost:3000). You can either login using the credentials in [settings.development.json](https://github.com/engage-manoa/engage-manoa/blob/main/config/settings.development.json) under "defaultAccounts", or you can sign up and create your own account in the app.
 
+### Loading the default data
+
+There is default data that is stored in JSON format in [settings.development.json](https://github.com/engage-manoa/engage-manoa/blob/main/config/settings.development.json) under "defaultClubs". This data is loaded into the database upon startup. Additionally, you can load data from a CSV file that is stored as [rio.csv](https://github.com/engage-manoa/engage-manoa/blob/main/app/private/rio.csv). Note that the headers of this CSV file must be: clubName, category, Contact person, Admin, test.
+
 ## Team Members
 ### [Jun Ho](https://junhocs.github.io)
 ### [Mikel](https://mikel-ishihara.github.io/)
