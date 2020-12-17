@@ -26,13 +26,13 @@ Link to Engage manoa Repo: [Engage-Manoa repo](https://github.com/engage-manoa/e
 
 ### [Landing Page](http://engage-manoa.xyz/#/)
 The landing page gives an overview of the site. Eventually it will be updated to show example clubs and uses.
-<img src="Photos/1.png"/>
+<img src="Photos/1.PNG"/>
 
 ### [Login Page](http://engage-manoa.xyz/#/signin/)
-<img src="Photos/login.png"/>
+<img src="Photos/login.PNG"/>
 
 ### [Sign-up Page](http://engage-manoa.xyz/#/signup)
-<img src="Photos/register.png"/>
+<img src="Photos/register.PNG"/>
 
 ### You must be logged in to view the following pages
 
