@@ -20,6 +20,7 @@ The website uses
 
 ## Deployment
 A live deployment of the Engage Manoa site is available at: [Engage Manoa](http://engage-manoa.xyz/#/)
+
 Link to Engage manoa Repo: [Engage-Manoa repo](https://github.com/engage-manoa/engage-manoa)
 
 ## User Guide
@@ -67,7 +68,8 @@ Milestone 2 focused on expanding the features of the site. Specifically the club
 Milestone 3 focused on updating the UI of the site as well as polishing a few features based on feedback.
 
 ## Community Feedback
-We gathered some feedback on the site from multiple members of the UH Manoa student body. We asked questions focusing on the: usability, UI, usefulness, and ways to improve the site. From the feedback we made changes to the UI and overall application. Most of the complaints was directed towards many of the clubs missing bits of data. This shouldn't be a problem as the site is designed so the club admin maintains their own clubs info (so most entries on the prototype are missing photos' and descriptions).
+We gathered some feedback on the site from multiple members of the UH Manoa student body. We asked questions focusing on the: usability, UI, usefulness, and ways to improve the site. From there, we used the feedback to made changes to the UI and overall application. Most of the complaints for UI was directed towards many of the clubs missing bits of data. This shouldn't be a problem as the site is designed so the club admin maintains their own clubs info (so most entries on the prototype are missing photos' and descriptions).
+
 The general consensus was the site was intuitive and was easy to understand (scored 4.6/5 on average for user friendliness). All of the participants thought that it would help them find clubs they would be interested in.
 
 [Link to Feedback Form](https://forms.gle/8MgMzdpE1cUefYT96)
