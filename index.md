@@ -10,7 +10,7 @@
 - [Team Members](#team-members)
 
 ## Overview
-The Engage Manoa website is a centralized directory open to UH Manoa students looking for organizations and clubs. UH Manoa is home to many clubs and student organizations. but there isn't currently a way to browse the different clubs digitally. The only option is the google spreadsheet which lists all of UH Manoa's registered independent organizations. Engage Manoa will be designed to offer an easily accessible online space for students to find up-to-date information regarding all campus organizations and clubs. Users can create a profile and have access to a full directory to find a club or organization based on their interests.
+The Engage Manoa website is a centralized directory open to UH Manoa students looking for organizations and clubs. UH Manoa is home to many clubs and student organizations. but there isn't currently a way to browse the different clubs digitally. The only option is the google spreadsheet which lists all of UH Manoa's registered independent organizations. Engage Manoa is designed to offer an easily accessible online space for students to find up-to-date information regarding all campus organizations and clubs. Users can create a profile and have access to a full directory to find a club or organization based on their interests.
 
 The website uses
 - Meteor - for server and client code
@@ -26,7 +26,7 @@ Link to Engage manoa Repo: [Engage-Manoa repo](https://github.com/engage-manoa/e
 ## User Guide
 
 ### [Landing Page](http://engage-manoa.xyz/#/)
-The landing page gives an overview of the site. Eventually it will be updated to show example clubs and uses.
+The landing page gives an overview of the site.
 <img src="Photos/1.PNG"/>
 
 ### [Login Page](http://engage-manoa.xyz/#/signin/)
@@ -42,7 +42,7 @@ If you're signed in with an admin account you have access to the Admin Page. The
 <img src="Photos/adminF.png"/>
 
 #### Club Admins
-If you are listed as the contact person on UH's RIO [spreadsheet](https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit#gid=94293836) then your email has been automatically registered as that club's Admin. You must create an account using the email listed on the spreadsheet to be able to change your club's listing. Please find your club then hit edit club info and add a photo and a description about your club for other users to see.
+If you are listed as the contact person on UH's RIO [spreadsheet](https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit#gid=94293836) then your email has been automatically registered as that club's Admin. You must create an account using the email listed on the spreadsheet to be able to change your club's listing. Please find your club, click edit club info, then add a photo and a description about your club for other users to see.
 
 ### Edit Club Info
 A button to take you to the Edit Club Info page appears at the bottom of a club's card if you are listed as the manager of a club or are on the Admin Page. From this page you are able to edit the clubs saved info.
@@ -76,7 +76,7 @@ The general consensus was the site was intuitive and was easy to understand (sco
 
 ## Developer Guide
 ### Installation
-First, click the "Clone or download" button to download the GitHup rep to your local file system.
+First, click the "Clone or download" button to download the GitHup repo to your local file system.
 
 Second, [install Meteor](https://www.meteor.com/install).
 
