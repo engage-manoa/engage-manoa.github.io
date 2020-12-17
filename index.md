@@ -25,13 +25,13 @@ The website uses
 
 ### [Landing Page](http://engage-manoa.xyz/#/)
 The landing page gives an overview of the site. Eventually it will be updated to show example clubs and uses.
-<img src="Photos/landingM1.png"/>
+<img src="Photos/1.PNG"/>
 
 ### [Login Page](http://engage-manoa.xyz/#/signin/)
-<img src="Photos/signInM1.png"/>
+<img src="Photos/login.PNG"/>
 
 ### [Sign-up Page](http://engage-manoa.xyz/#/signup)
-<img src="Photos/registerM1.png"/>
+<img src="Photos/register.PNG"/>
 
 ### You must be logged in to view the following pages
 
